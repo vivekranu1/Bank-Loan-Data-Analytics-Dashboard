@@ -244,6 +244,22 @@ These insights can help banks:
 
 ---
 
+##  Dashboard Screenshots
+
+### 1️. Dashboard Overview
+![Dashboard Overview](screenshots/Dashboard Overview_Excel Screenshot .png)
+
+### 2️. Drill Through Sheet View
+![Drill Through Sheet](screenshots/Drill Through Sheet Screenshot.png)
+
+### 3️. KPIs Overview
+![KPIs Overview](screenshots/KPIs Overview Screenshot.png)
+
+
+>  All screenshots are stored inside the `/screenshots` folder.
+
+---
+
 ##  Files in Repository
 
 Due to GitHub file size limitations, the complete Excel dashboard file and screenshots are hosted on Google Drive.

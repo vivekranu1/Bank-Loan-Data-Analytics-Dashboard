@@ -244,19 +244,21 @@ These insights can help banks:
 
 ---
 
-##  Dashboard Screenshots
+## Dashboard Screenshots
 
-### 1️. Dashboard Overview
-![Dashboard Overview](screenshots/Dashboard Overview_Excel Screenshot .png)
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
-### 2️. Drill Through Sheet View
-![Drill Through Sheet](screenshots/Drill Through Sheet Screenshot.png)
+### 2. Drill-Through View
+![Drill Through View](screenshots/drill_through_view.png)
 
-### 3️. KPIs Overview
-![KPIs Overview](screenshots/KPIs Overview Screenshot.png)
+### 3. KPIs Overview
+![KPIs Overview](screenshots/kpis_overview.png)
 
+### 4. Charts Section Overview
+![Charts Section Overview](screenshots/charts_section_overview.png)
 
->  All screenshots are stored inside the `/screenshots` folder.
+> All dashboard screenshots are stored inside the `/screenshots` folder.
 
 ---
 
